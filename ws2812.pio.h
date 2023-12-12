@@ -111,3 +111,7 @@ static inline void ws2812_parallel_program_init(PIO pio, uint sm, uint offset, u
 }
 
 #endif
+<<<<<<< HEAD
+=======
+
+>>>>>>> de1c3e4307715df8e5b98171030afa6e5944b009

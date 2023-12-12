@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> de1c3e4307715df8e5b98171030afa6e5944b009
 #ifndef WS2812_H
 #define WS2812_H
 
